@@ -15,3 +15,6 @@ When you directly email me about SpaceCube or WordFall, I am able to view your e
 
 # Summary
 Seriously, I don't collect any information. Both of these apps are really dumb and I just made them for fun. 
+
+# Unintentional Appeal To Children Clause
+I have marked both of these apps as not appealing to children under the age of 13. This is because neither of these apps appeal to anyone. 
