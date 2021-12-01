@@ -11,7 +11,7 @@ When you install SpaceCube or WordFall, I can see where in the world you install
 
 # Emails
 <img src="https://raw.githubusercontent.com/idrios/android-privacy-policy/main/screenshots/email.png" width="60%" height="60%"/>
-When you directly email me about SpaceCube or WordFall, I am able to view your email address from which you messaged me. This data gets saved in my email archive, and does not typically get deleted. Do not send me emails unless you are comfortable with me knowing your email address. If you did send me an email and would to have it deleted, please me an email asking me to delete the email, and I will delete the email that you asked me to delete as well as the email you sent to tell me to delete the email. 
+When you directly email me about SpaceCube or WordFall, I am able to view your email address from which you messaged me. This data gets saved in my email archive, and does not typically get deleted. Do not send me emails unless you are comfortable with me knowing your email address. If you did send me an email and would to have it deleted, please send me an email asking me to delete the email, and I will delete the email that you asked me to delete as well as the email you sent to tell me to delete the email. 
 
 # Summary
 Seriously, I don't collect any information. Both of these apps are really dumb and I just made them for fun. 
