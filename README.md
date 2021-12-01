@@ -7,7 +7,7 @@ When you leave comments, I can see what device you used to make the comment, the
 
 # Data aggregation 
 <img src="https://raw.githubusercontent.com/idrios/android-privacy-policy/main/screenshots/installs.png" width="30%" height="30%"/>
-When you install SpaceCube or WordFall, I can see where in the world you installed it from, whether it was from the USA or from the Not USA. There have beem times in the past that I've had as many as 2 SpaceCube installs in the same day!
+When you install SpaceCube or WordFall, I can see where in the world you installed it from, whether it was from the USA or from the Not USA. There have been times in the past that I've had as many as 2 SpaceCube installs in the same day!
 
 # Emails
 <img src="https://raw.githubusercontent.com/idrios/android-privacy-policy/main/screenshots/email.png" width="60%" height="60%"/>
