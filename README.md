@@ -1,11 +1,11 @@
-# WordFall and SpaceCube privacy policy
+# WordFall and SpaceCube Privacy Policy
 I collect no personal data from WordFall or SpaceCube, unless it is shared accidentally with me. In fact, I would collect 0 data at all, but there is some data monitoring built into the Google Play store that I cannot opt out of. So here are the ways I accidentally do save your information. 
 
 # User Feedback 
 <img src="https://raw.githubusercontent.com/idrios/android-privacy-policy/main/screenshots/comment-info.png" width="60%" height="60%"/>
 When you leave comments, I can see what device you used to make the comment, the version of android you were using and the version of the app you were using. Please don't let this sway you from making comments. I love your comments. 
 
-# Data aggregation 
+# Data Aggregation 
 <img src="https://raw.githubusercontent.com/idrios/android-privacy-policy/main/screenshots/installs.png" width="30%" height="30%"/>
 When you install SpaceCube or WordFall, I can see where in the world you installed it from, whether it was from the USA or from the Not USA. There have been times in the past that I've had as many as 2 SpaceCube installs in the same day!
 
